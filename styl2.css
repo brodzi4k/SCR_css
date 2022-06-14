@@ -1,0 +1,50 @@
+html{
+    background-color: darkgray;
+}
+.tytul{
+    text-align: center;
+    color: gray;
+    font-size: 50px;
+    background-color: black;
+    border-color: gray;
+    border-style: groove;
+}
+.podtytul{
+    text-align:center;
+    color:white;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.kroki{
+    background-color:dimgray;
+    text-align:left;
+    color:black;
+    font-size: 20px;
+    margin-top: 30px;
+}
+ul{
+    background-color:dimgray;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+li{
+    background-color:gray;
+    margin: 10px;
+}
+li:hover{
+    background-color: darkgray;
+    font-size: medium;
+    border-style: solid;
+    border-color: black;
+}
+.zdjecie IMG{
+    width: 50%;
+    height: 80%;
+    margin: 50px 500px 50px 500px;
+}
+.zdjecie IMG:hover{
+    width: 80%;
+    height: 130%;
+    margin: 50px 200px 50px 200px;
+}

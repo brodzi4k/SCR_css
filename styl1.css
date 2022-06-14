@@ -1,0 +1,50 @@
+html{
+    background-color: violet;
+}
+.tytul{
+    text-align: center;
+    color: crimson;
+    font-size: 50px;
+    background-color: lavenderblush;
+    border-color: black;
+    border-style: groove;
+}
+.podtytul{
+    background-color:slateblue;
+    text-align:center;
+    color:gold;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.kroki{
+    background-color:aqua;
+    text-align:left;
+    color:indigo;
+    font-size: 20px;
+    margin-top: 30px;
+}
+ul{
+    background-color:aqua;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+li{
+    background-color:aquamarine;
+    margin: 10px;
+}
+li:hover{
+    background-color: aqua;
+    font-size: medium;
+    border-style: dashed;
+    border-color: gray;
+}
+.zdjecie IMG{
+    width: 50%;
+    height: 80%;
+    margin: 50px 500px 50px 500px;
+}
+.zdjecie IMG:hover{
+    border-style: groove;
+    border-color: crimson;
+}
